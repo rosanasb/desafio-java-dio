@@ -7,7 +7,7 @@ public class ContaTerminal {
         String agencia, nomeCliente;
         double saldo;
 
-        System.out.print("Por favor, digite o numero da Agencia: ");
+        System.out.print("Por favor, digite o numero da Conta: ");
         numero = sc.nextInt();
         sc.nextLine();
         System.out.print("Por favor, digite a Agencia: ");
